@@ -2,6 +2,10 @@
 
 A modern and responsive clone of the Udemy homepage developed as part of my Front-End Development learning journey.
 
+## 🌐 Live Demo
+
+🔗 https://codeby-dharunya.github.io/UDEMY-CLONE/
+
 ## 📌 Overview
 
 This project recreates the core layout and user interface of the Udemy website using HTML and CSS. The focus was on building a clean, responsive design while following modern web development practices.
@@ -22,31 +26,38 @@ This project recreates the core layout and user interface of the Udemy website u
 
 ## 🛠 Tech Stack
 
-- HTML5
-- CSS3
-- Flexbox
-- CSS Grid
+* HTML5
+* CSS3
+* Flexbox
+* CSS Grid
 
 ## 🎯 What I Learned
 
-- Creating semantic HTML layouts
-- Building responsive web pages
-- Using Flexbox and Grid effectively
-- Organizing project structure
-- Improving UI design skills
+* Creating semantic HTML layouts
+* Building responsive web pages
+* Using Flexbox and Grid effectively
+* Organizing project structure
+* Improving UI design skills
 
 ## 🚀 Future Improvements
 
-- Add JavaScript functionality
-- Implement search interactions
-- Create dynamic course cards
-- Enhance mobile responsiveness
+* Add JavaScript functionality
+* Implement search interactions
+* Create dynamic course cards
+* Enhance mobile responsiveness
 
 ## 👩‍💻 Developer
 
-**Dharunya**
+**Dharunya VR**
 
 Front-End Developer | Learning and Building Web Projects
 
+🔗 LinkedIn: www.linkedin.com/in/
+dharunya-vr-856919414
+
+
+🔗 GitHub: https://github.com/codeby-dharunya
+
 ---
+
 ⭐ Feel free to explore the project and share your feedback!
